@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 uuuututjijjjhai everyone
+=======
+ututjijjjhai everyone
+>>>>>>> e388ae248ca78295833ed5026414e4dfdf78f9f1
 
