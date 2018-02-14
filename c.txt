@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hai 
 gf
 
+=======
+hello world
+>>>>>>> 8bdaa30... hjhj
